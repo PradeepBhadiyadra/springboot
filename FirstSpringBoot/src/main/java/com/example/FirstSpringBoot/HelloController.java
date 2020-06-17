@@ -9,6 +9,6 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String sayHello() {
 	//Question: is it mandatory that mapping methods should return String?
-		return "Hello from Vilas";
+		return "Hello from Vilas Varghese";
 	}
 }
