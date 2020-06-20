@@ -8,7 +8,7 @@ public class SimpleController {
 	
 	@RequestMapping("/simple")
 	public String simple() {
-		return "This is a simple class -Edit By Pradeep";
+		return "This is a simple class -Edit -2";
 	}
 
 }
